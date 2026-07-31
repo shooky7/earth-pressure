@@ -2,7 +2,6 @@
   "name": "earth-pressure-calculator",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://shooky7.github.io/earth-pressure",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
